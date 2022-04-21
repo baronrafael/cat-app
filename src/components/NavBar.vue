@@ -1,13 +1,9 @@
 <template>
   <nav class="navbar" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
-      <a class="navbar-item" href="https://bulma.io">
-        <img
-          src="https://bulma.io/images/bulma-logo.png"
-          width="112"
-          height="28"
-          alt="The app logo"
-        />
+      <a class="navbar-item">
+        <img src="https://api.thecatapi.com/favicon.ico" alt="Just a cat" />
+        <h1 class="ml-1">Random Cats</h1>
       </a>
     </div>
   </nav>
